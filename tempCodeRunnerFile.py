@@ -1,0 +1,1 @@
+V, L, R = self.gridFront(frontImage, cols=7, rows=3)
